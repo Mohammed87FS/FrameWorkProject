@@ -1,3 +1,4 @@
 [build]
-  publish = "dist"
+  base = "cc221045/ss23-complete-main/nuxt-app"
+  publish = "cc221045/ss23-complete-main/nuxt-app/dist"
   command = "npm run generate"
